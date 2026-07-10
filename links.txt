@@ -1,0 +1,7 @@
+# Paste your untitled.stream and samply.app links below.
+# Supported link patterns:
+# untitled.stream/library/project/
+# samply.app/p/
+# The script ignores other text, so you can paste full notes/lists safely.
+
+https://samply.app/p/d3gTLXdmeQ5mSZb1Zbb2?si=QP1m8zr1BchHq1n8J3zjB9aE7wu2
