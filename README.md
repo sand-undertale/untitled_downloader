@@ -17,7 +17,7 @@ The script also converts all audio files into mp3s unless they are over 10mb or 
 1. Download repository as zip
 2. Unzip and open links.txt
 2. Paste untitled.stream and samply links into links.txt
-3. Run `python3 untitled_downloader.py` in Terminal
+3. Run ```python3 untitled_downloader.py``` in Terminal
 4. When the script is done the audio files will be available in untitled_downloader_main/Downloads
 
 
@@ -25,8 +25,8 @@ The script also converts all audio files into mp3s unless they are over 10mb or 
 `ffmpeg` (To convert file into MP3)
 
 ### Samply link requirements
-`pip install playwright` (headless browser automation)
-`playwright install chromium`
+```pip install playwright``` (headless browser automation)
+```playwright install chromium```
 
 
 ## Other
